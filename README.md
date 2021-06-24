@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋HOLA
 
-<!--
-**ROSARIOPUELLES/ROSARIOPUELLES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Repositorio de Tecnicas y Herramientas Modernas I
 
-Here are some ideas to get you started:
+PROYECTOS A PRESENTAR:
+-CV en Latex, plataforma Overleaf.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Capitulo 6 en latex, Traduccion del ingles al español de un libro sobre la descarbonizacion
+
+-Entrega de los proyectos en un repositorio
+
+
+## CV en Latex
+
+
+
+## Capitulo 6 del Libro
