@@ -11,7 +11,8 @@ PROYECTOS A PRESENTAR:
 
 
 ## CV en Latex
+(https://github.com/ROSARIOPUELLES/ROSARIOPUELLES/blob/3bb37c9ec8b9afbe0965b1145bf4c9ecbefa86e0/CV%20PUELLES%20SAIZ.pdf)
 
 
-
-## Capitulo 6 del Libro
+## Capi9tulo 6 del Libro
+( https://github.com/ROSARIOPUELLES/ROSARIOPUELLES/blob/3bb37c9ec8b9afbe0965b1145bf4c9ecbefa86e0/CAPITULO%206.pdf) 
